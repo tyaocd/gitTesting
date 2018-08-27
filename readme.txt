@@ -1,2 +1,2 @@
 this is a document created in Branch1
-this row is added in branch2 and modified by master	
+this row is added in master when fixing the confilct
